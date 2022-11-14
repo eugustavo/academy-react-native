@@ -32,6 +32,7 @@ export function Exercise() {
             color="gray.100"
             fontSize="lg"
             flexShrink={1}
+            fontFamily="heading"
           >
             Puxada Frontal
           </Heading>

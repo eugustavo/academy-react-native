@@ -33,6 +33,7 @@ export function History() {
           <Heading
             color="gray.200"
             fontSize="md"
+            fontFamily="heading"
             mt={6}
             mb={3}
           >
