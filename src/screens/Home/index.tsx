@@ -8,6 +8,7 @@ import { Group } from "@components/Group/inde";
 import { HomeHeader } from "@components/HomeHeader";
 import { ExerciseCard } from "@components/ExerciseCard";
 
+
 export function Home() {
   const [groupSelected, setGroupSelected] = useState('costas');
   const [groups, setGroups] = useState(['costas', 'ombros', 'pernas', 'biceps', 'triceps', 'peito', 'abdomen', 'cardio']);
